@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# HealthTrack — Clinic Management System
 
 
@@ -40,3 +41,7 @@ A healthcare clinic management system built with Python.
 
 \- Context Managers
 
+=======
+# healthtrack
+Healthcare Clinic Management System built with Python
+>>>>>>> 193893bed9a151efad8aa10aa068d61d1c781d81
